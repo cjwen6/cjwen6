@@ -2,7 +2,7 @@
 
 - 🧑‍💻 An OIer
 
-- ♾ An OIer
+- ♾ An MOer
 
 - 🏫 An junior high school student
 
