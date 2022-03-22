@@ -6,14 +6,10 @@
 
 - 🏫 An junior high school student
 
-<br/>
-
-## 📨 Connect with me
+## 🤙 Connect with me
 
 [![cjwen6](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/cjwen6)
 [![cjwen6.cn](https://img.shields.io/badge/My%20Blog-cjwen6.cn-orange)](https://cjwen6.cn)
-
-<br/>
 
 ## 📜 Recent Blog Posts
 
