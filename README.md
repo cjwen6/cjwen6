@@ -1,4 +1,4 @@
-### <div align="center">👋 Hi, I'm cjwen6</div>
+## <div align="center">👋 Hi, I'm cjwen6</div>
 
 - 🧑‍💻 An OIer
 
