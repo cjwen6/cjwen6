@@ -19,11 +19,11 @@
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [「题解」CF1654A Maximum Cake Tastiness](https://cjwen6.cn/post/pkYsHQ3IF/)
 - [「笔记」折半搜索（Meet in the Middle）](https://cjwen6.cn/post/XM1Uq-UXg/)
 - [「题解」佳佳的魔法药水](https://cjwen6.cn/post/uzGA5cZ6i/)
 - [「水」学校体检](https://cjwen6.cn/post/9BcS6B1RZ/)
 - [「题解」Roads and Planes](https://cjwen6.cn/post/eAks9rtmL/)
-- [「水」hack 某位同学的 SPJ](https://cjwen6.cn/post/Sb80ymDFn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⭐️ Github Stats
