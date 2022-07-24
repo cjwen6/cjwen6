@@ -18,11 +18,11 @@
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [自动监测 YAOJ 排行榜变化程序](https://cjwen6.cn/post/rqBF7fmXp/)
+- [「题解」YAOI Summer 2022 Round #1 &lpar;Div.2&rpar;](https://cjwen6.cn/post/HPYTrs4LJ/)
 - [2021-03-20 模拟赛](https://cjwen6.cn/post/2Ej4ORZT9/)
 - [「笔记」折半搜索（Meet in the Middle）](https://cjwen6.cn/post/XM1Uq-UXg/)
 - [「题解」佳佳的魔法药水](https://cjwen6.cn/post/uzGA5cZ6i/)
-- [「水」学校体检](https://cjwen6.cn/post/9BcS6B1RZ/)
-- [「题解」Roads and Planes](https://cjwen6.cn/post/eAks9rtmL/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
