@@ -18,11 +18,11 @@
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [THUWC 2024 口胡题解](https://cjwen6.cn/post/xDJW8pW6A/)
 - [NOIP 模拟赛 Round β 题解](https://cjwen6.cn/post/KvwvgoTYV/)
 - [提高模拟赛 Round α 题解](https://cjwen6.cn/post/EXp7Wt6GT/)
 - [普及模拟赛 Round α 题解](https://cjwen6.cn/post/BmogMcHVd/)
 - [沉浸式 cjwen 头像旋转一分钟](https://cjwen6.cn/post/F8h2Lr5D1/)
-- [现公布本人近三个月最新 OI 研究成果](https://cjwen6.cn/post/QXcTieM5V/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
