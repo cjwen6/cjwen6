@@ -18,11 +18,11 @@
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [柠檬树上柠檬果](https://cjwen6.cn/post/ZJa7TyR33/)
 - [树的直径怎么求](https://cjwen6.cn/post/qQYB7LKe4/)
 - [人生有梦，各自精彩。](https://cjwen6.cn/post/YVvv1FnYv/)
 - [存档](https://cjwen6.cn/post/m3Plmy4NZ/)
 - [通知](https://cjwen6.cn/post/O9fzeBWR4/)
-- [沉默已是答案，何必再自找难堪](https://cjwen6.cn/post/zy47kl540/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
