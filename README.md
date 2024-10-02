@@ -1,10 +1,6 @@
 # <div align="center">👋 Hi, I'm cjwen6</div>
 
-- 🧑‍💻 An OIer
-
-- ♾ An MOer
-
-- 🏫 An junior high school student
+- 🐷 1 std. pig's head
 
 <br/>
 
