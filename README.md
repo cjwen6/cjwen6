@@ -14,11 +14,11 @@
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [乒乓球的奇妙之处就在于你一局不赢跟赢三局是没有任何区别的](https://cjwen6.cn/post/YYpiiPAXz6/)
 - [我较为乐观](https://cjwen6.cn/post/wjRD6SBCYC/)
 - [对必应爬虫的最后一击！](https://cjwen6.cn/post/leUcC3okOe/)
 - [爆零](https://cjwen6.cn/post/LyZlSfLDo/)
 - [天生我材必有用](https://cjwen6.cn/post/k6tEo1DkD/)
-- [蒸馍，我不扶器？？？](https://cjwen6.cn/post/foFCTrAJs/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
