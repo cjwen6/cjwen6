@@ -2,9 +2,9 @@ name: Blog Posts
 
 on:
   # Run workflow automatically
-  schedule:
+  # schedule:
     # Runs every hour, on the hour
-    - cron: "0 * * * *"
+    # - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
